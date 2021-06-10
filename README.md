@@ -3,13 +3,13 @@ Web Scrapping, Data Curation and NLP
 
 
 
-Expected Output : ['uses'] ['Antipyrine and benzocaine combination is used in the ear to help relieve the pain, swelling, and congestion of some ear infections. It will not cure the infection itself. An antibiotic will be needed to treat the infection. This medicine is also used to soften earwax so that the earwax can be washed away more easily.In the U.S., this medicine is available only with your doctor's prescription.']
+Expected Output : {'uses':'Antipyrine and benzocaine combination is used in the ear to help relieve the pain, swelling, and congestion of some ear infections. It will not cure the infection itself. An antibiotic will be needed to treat the infection. This medicine is also used to soften earwax so that the earwax can be washed away more easily.In the U.S., this medicine is available only with your doctor's prescription.'}
 
 Text for Uses is available between "Uses of A/B Otic" and "Before uses of A/B Otic"
 
 
 
-['before-taking'] ['In deciding to use a medicine, the risks of taking the medicine must be weighed against the good it will do. This is a decision you and your doctor will make. For this medicine, the following should be considered:
+{'before-taking': 'In deciding to use a medicine, the risks of taking the medicine must be weighed against the good it will do. This is a decision you and your doctor will make. For this medicine, the following should be considered:
 
 Allergies
 Tell your doctor if you have ever had any unusual or allergic reaction to this medicine or any other medicines. Also tell your health care professional if you have any other types of allergies, such as to foods, dyes, preservatives, or animals. For non-prescription products, read the label or package ingredients carefully.
@@ -35,5 +35,5 @@ Certain medicines should not be used at or around the time of eating food or eat
 Other medical problems
 The presence of other medical problems may affect the use of this medicine. Make sure you tell your doctor if you have any other medical problems, especially:
 The presence of other medical problems may affect the use of antipyrine and benzocaine combination. Make sure you tell your doctor if:
-Your ear is draining—The chance of unwanted effects may be increased]
+Your ear is draining—The chance of unwanted effects may be increased}
 

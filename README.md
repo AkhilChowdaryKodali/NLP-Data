@@ -5,7 +5,7 @@ Web Scrapping, Data Curation and NLP
 
 Expected Output : ['uses'] ['Antipyrine and benzocaine combination is used in the ear to help relieve the pain, swelling, and congestion of some ear infections. It will not cure the infection itself. An antibiotic will be needed to treat the infection. This medicine is also used to soften earwax so that the earwax can be washed away more easily.In the U.S., this medicine is available only with your doctor's prescription.']
 
-Text for Uses is available between Uses of A/B Otic and Before uses of A/B Otic
+Text for Uses is available between "Uses of A/B Otic" and "Before uses of A/B Otic"
 
 
 

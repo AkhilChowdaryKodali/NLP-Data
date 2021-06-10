@@ -7,7 +7,7 @@ Expected Output : {'uses':'Antipyrine and benzocaine combination is used in the 
 
 Text for Uses is available between "Uses of A/B Otic" and "Before uses of A/B Otic"
 
-
+Text for Before-Taking is available between "Before uses of A/B Otic" and "Proper use of A/B Otic"
 
 {'before-taking': 'In deciding to use a medicine, the risks of taking the medicine must be weighed against the good it will do. This is a decision you and your doctor will make. For this medicine, the following should be considered:
 

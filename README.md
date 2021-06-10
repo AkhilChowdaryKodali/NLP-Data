@@ -1,6 +1,12 @@
 # NLP-Data
 Web Scrapping, Data Curation and NLP 
+
+
+
 Expected Output : ['uses'] ['Antipyrine and benzocaine combination is used in the ear to help relieve the pain, swelling, and congestion of some ear infections. It will not cure the infection itself. An antibiotic will be needed to treat the infection. This medicine is also used to soften earwax so that the earwax can be washed away more easily.In the U.S., this medicine is available only with your doctor's prescription.']
+
+
+
 
 ['before-taking'] ['In deciding to use a medicine, the risks of taking the medicine must be weighed against the good it will do. This is a decision you and your doctor will make. For this medicine, the following should be considered:
 
